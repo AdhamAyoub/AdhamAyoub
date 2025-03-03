@@ -31,10 +31,14 @@ Analyzed sales data from a coffee shop using **Excel**. Implemented data cleanin
 Performed **data cleaning and analysis** on a **tech store’s sales sheet**. Created **pivot tables and visualizations** to answer key business insights, such as revenue trends, top-selling products, and customer behavior.  
 **Skills Used:** Excel (Pivot Tables, Data Cleaning, Visualizations)  
 
-### 📊 Tech-Store Sales Data Analysis  
+### 📊  Financial-Consumer-Analysis  
 **Project Overview:**  
 Performed **SQL-based analysis** on an e-commerce dataset to identify top-selling products, customer purchasing patterns, and revenue growth trends.  
 **Skills Used:** SQL (Joins, Aggregations, Window Functions), Power BI  
+
+### 📊 PWC Power	BI	Job	Simulatio
+**Project Overview:**  
+Completed **PwC Switzerland's Power BI simulation**, enhancing data visualization and analytical skills. Developed **interactive dashboards** to showcase KPIs, provided **data-driven insights** on HR gender balance, and communicated findings effectively through reports. Demonstrated expertise in problem-solving and client-focused data analysis, strengthening my ability to create impactful Power BI solutions.
 
 ### 🏆 Future Plans  
 - 🔍 Enhancing my **Python and SQL** skills for advanced analytics  
